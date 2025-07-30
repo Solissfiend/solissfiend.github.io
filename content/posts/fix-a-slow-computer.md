@@ -1,11 +1,10 @@
 ---
-
 title: "Ultimate Guide to Speeding Up Your Slow Computer (With Amazon Picks)"
-
 date: 2025-07-30T12:00:00Z
-
 draft: false
-
+description: "An in-depth guide to optimizing your PC's performance using easy software fixes and Amazon-recommended upgrades."
+tags: ["slow computer", "PC upgrade", "speed up PC", "amazon affiliate"]
+categories: ["Optimization", "PC Help"]
 ---
 
 
