@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Fix Slow PCs</title>
+    <link>https://solissfiend.github.io/categories/</link>
+    <description>Recent content in Categories on Fix Slow PCs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://solissfiend.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[&#34;Optimization&#34;, &#34;PC Help&#34;]</title>
+      <link>https://solissfiend.github.io/categories/optimization-pc-help/</link>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+      <guid>https://solissfiend.github.io/categories/optimization-pc-help/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>https://solissfiend.github.io/categories/optimization/</link>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+      <guid>https://solissfiend.github.io/categories/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PC Help</title>
+      <link>https://solissfiend.github.io/categories/pc-help/</link>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+      <guid>https://solissfiend.github.io/categories/pc-help/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
