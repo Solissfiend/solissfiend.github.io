@@ -1,0 +1,4 @@
+baseURL = "https://solissfiend.github.io/"
+languageCode = "en-us"
+title = "Fix Slow PCs"
+theme = "ananke"
